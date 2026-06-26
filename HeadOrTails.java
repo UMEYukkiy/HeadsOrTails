@@ -27,7 +27,7 @@ public class HeadOrTails {
     if (headsCount > tailsCount) {
       System.out.println("You won!");
     } else {
-      System.out.println("You lost!");
+      System.out.println("You lost");
     }
 
     sc.close();
